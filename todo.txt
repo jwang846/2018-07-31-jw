@@ -4,3 +4,4 @@ what do we need:
 --week
 --day
 --hour
+--made a conversion.py
