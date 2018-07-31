@@ -2,3 +2,5 @@ what do we need:
 --year
 --month
 --week
+--day
+--hour
